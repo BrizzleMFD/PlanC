@@ -1,2 +1,2 @@
-# PlanC
+# PlanM
 PlanB:modded modpack
